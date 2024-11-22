@@ -628,7 +628,7 @@ int main(){
 }
 ```
 
-![](Aspose.Words.3073e0a1-5aa4-45fc-b0b4-4a36fb433aa6.001.png)
+![](image/Aspose.Words.3073e0a1-5aa4-45fc-b0b4-4a36fb433aa6.001.png)
 
 ## 3.3 跳转语句（`break/continue`）
 ### 3.3.1 `break`语句
@@ -1787,7 +1787,7 @@ int main(int argc, char const *argv[])
 
 # 8. 引用
 ## 8.1 指针和引用的不同
-![](Aspose.Words.3073e0a1-5aa4-45fc-b0b4-4a36fb433aa6.002.png)
+![](image/Aspose.Words.3073e0a1-5aa4-45fc-b0b4-4a36fb433aa6.002.png)
 引用 r，是 year 的一个别名，在内存中 r 和 year 占有同一个存储单元，指针不同，指针有自己的内存空间。
 
 1）不存在空引用。引用必须连接到一块合法的内存；存在空指针。
@@ -2418,7 +2418,7 @@ int main()
 
 int计算方式：$1 * 2^{30} + 1 * 2^{21} = 1075838976$
 
-![](Aspose.Words.3073e0a1-5aa4-45fc-b0b4-4a36fb433aa6.003.png)
+![](image/Aspose.Words.3073e0a1-5aa4-45fc-b0b4-4a36fb433aa6.003.png)
 ## 案例1
 
 ```c++
@@ -4024,7 +4024,7 @@ int main(int argc, char const *argv[])
 }
 ```
 
-![](Aspose.Words.3073e0a1-5aa4-45fc-b0b4-4a36fb433aa6.005.png)
+![](image/Aspose.Words.3073e0a1-5aa4-45fc-b0b4-4a36fb433aa6.005.png)
 
 ### 3.2.7 静态成员
 静态成员属于类本身，不属于某个实例。
@@ -4405,7 +4405,7 @@ const修饰后，限制为只读状态
 声明对象前加const  常对象
 常对象只能调用常函数
 
-![](Aspose.Words.3073e0a1-5aa4-45fc-b0b4-4a36fb433aa6.006.png)
+![](image/Aspose.Words.3073e0a1-5aa4-45fc-b0b4-4a36fb433aa6.006.png)
 ```c++
 #include <iostream>
 using namespace std;
@@ -4696,7 +4696,7 @@ int main(int argc, char const *argv[])
 
 通过自己写成员函数，实现两个对象属性相加后返回新的对象。
 
-![](Aspose.Words.3073e0a1-5aa4-45fc-b0b4-4a36fb433aa6.007.png)
+![](image/Aspose.Words.3073e0a1-5aa4-45fc-b0b4-4a36fb433aa6.007.png)
 
 ```c++
 #include <iostream>
@@ -5859,7 +5859,7 @@ int main(int argc, char const *argv[])
 }
 ```
 
-![](Aspose.Words.3073e0a1-5aa4-45fc-b0b4-4a36fb433aa6.008.png)
+![](image/Aspose.Words.3073e0a1-5aa4-45fc-b0b4-4a36fb433aa6.008.png)
 
 ### 多态案例4:（虚析构/纯虚析构）
 ```c++
@@ -5946,7 +5946,7 @@ int main(int argc, char const *argv[])
     return 0;
 }
 ```
-![](Aspose.Words.3073e0a1-5aa4-45fc-b0b4-4a36fb433aa6.009.png)
+![](image/Aspose.Words.3073e0a1-5aa4-45fc-b0b4-4a36fb433aa6.009.png)
 
 
 
@@ -7886,7 +7886,7 @@ struct Test02
     short s;
 }t2;
 
-![](Aspose.Words.3073e0a1-5aa4-45fc-b0b4-4a36fb433aa6.010.png)
+![](image/Aspose.Words.3073e0a1-5aa4-45fc-b0b4-4a36fb433aa6.010.png)
 以t2结构体为例进行说明：
 
 第一个成员 c 的偏移量为 0，所以成员 c 的内存空间的首地址为 0
